@@ -1,2 +1,2 @@
 # travel-gallery
-Including a Lot of Pictures made by me for the first time. I never edited or made anything like this before
+Including a lot of pictures I made for the first time. I never edited or made anything like this before. All the Source files are in .sourcefiles and so are the corresponding pictures with it. There is also a portfolio website with most of the graphic design stuff I did in different cities. To open it, download the repo and run the website on a code editor like VS Code or something.
